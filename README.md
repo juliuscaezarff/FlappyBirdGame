@@ -1,4 +1,4 @@
-<h1> <img src="../imgs/passaro.png"> </h1>
+<h1> <img src="./imgs/passaro.png"> </h1>
 
 #  Flappy Bird
 
@@ -12,7 +12,7 @@
 
   # Layout
 <p> Disponivel Apenas Para desktop</p>
-  <h1> <img  src="../imgs/flappyBirdGame.png"> </h1>
+  <h1> <img  src="./imgs/flappyBirdGame.png"> </h1>
   
 
   # Tecnologias
