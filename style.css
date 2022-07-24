@@ -29,7 +29,8 @@ body {
 /*======area do jogo=======*/
 [wm-flappy] {
   position: relative;
-  border: 5px solid dodgerblue;
+  border: 5px solid #000;
+  border-radius: 20px;
   height: 700px;
   width: 1200px;
   margin: 15px;
